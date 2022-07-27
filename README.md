@@ -16,8 +16,8 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
 ---
 ##  SKILLS
 
- - Programing Languages: Python, Fortran, C, Shell Scripting
- - Tools & Libraries: pandas, Numpy, malplotlib, Gnuplot, Bash
+ - __Programing Languages:__ Python, Fortran, C, Shell Scripting
+ - __Tools & Libraries:__ pandas, Numpy, malplotlib, Github, Docker, Gnuplot, Bash
 
 ---
 ##  EXPERIENCE
@@ -35,6 +35,7 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
    - __08/2014 to 12/2014__ General Physics I (Introduction to Mechanichs) _( Física General I (Introducción a Mecánica) )_
    - __03/2013 to 07/2013__ Mechanichs _( Mecánica )_
    - __08/2012 to 12/2012__ Electromagnetism I  _( Electromagnetismo II )_
+
 ---
 ##  EDUCATION
 
@@ -49,6 +50,7 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
  - Hitting the wall: Human sperm velocity recovery under ultra-confined conditions. Bettera Marcat M. A. _et al._ Biomicrofluidics __14__(2), 024108 (2020).
  - Espermatozoides microconfinados: interacción con paredes. Bettera Marcat M. A. _et al._ Anales AFA __29__(4), 111-115 (2018).
  - Validación de un modelo de toma de simultánea de agua y nutrientes. Bettera Marcat M. A. _et al._ Anales AFA __28__(2), 37-40 (2017).
+
 ---
 ## LANGUAGES
 
