@@ -57,9 +57,9 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
 
 ## PUBLICATIONS
 
- - Hitting the wall: Human sperm velocity recovery under ultra-confined conditions. Bettera Marcat M. A. _et al._ Biomicrofluidics __14__(2), 024108 (2020).
- - Espermatozoides microconfinados: interacción con paredes. Bettera Marcat M. A. _et al._ Anales AFA __29__(4), 111-115 (2018).
- - Validación de un modelo de toma de simultánea de agua y nutrientes. Bettera Marcat M. A. _et al._ Anales AFA __28__(2), 37-40 (2017).
+ - Hitting the wall: Human sperm velocity recovery under ultra-confined conditions. Bettera Marcat M. A. _et al._ Biomicrofluidics __14__(2), 024108 (2020). [[Link]](https://doi.org/10.1063/1.5143194)
+ - Espermatozoides microconfinados: interacción con paredes. Bettera Marcat M. A. _et al._ Anales AFA __29__(4), 111-115 (2018). [[Link]](https://doi.org/10.31527/analesafa.2018.29.4.111)
+ - Validación de un modelo de toma de simultánea de agua y nutrientes. Bettera Marcat M. A. _et al._ Anales AFA __28__(2), 37-40 (2017).[[Link]](https://doi.org/10.31527/analesafa.2017.28.2.37)
 
 
 ---
