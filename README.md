@@ -27,7 +27,7 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
 
 ##  EXPERIENCE
 
- - __Lecturer__,  Mathematichs, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _(Profesor Ayudante de A D.S., FaMAF, UNC.)_
+ - __Lecturer__,  Mathematichs, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _(Profesor Ayudante B D.S., FaMAF, UNC.)_
    - __08/2022 to -__ Mechanics _(Mecánica)_
    - __03/2022 to 07/2022__ Admision and introductory course _( Curso de Ingreso)_
  - __Lecturer__, National University of Rio Cuarto, Argentina. _(Profesor Ayudante de Primera D.S., FCEFQyN, UNRC.)_
@@ -36,7 +36,7 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
    - __03/2016 to 07/2016__ General Physics IV (Waves and Optics) _(Física General IV (Ondas y Óptica)_
  - __Research fellowship__, granted by  CONICET. _(Beca Interna Doctoral de CONICET)_
    - __04/2016 to 03/2022__ Reserch on active matter, particulary sperm dynamics in confined environments, with simulations and experimental data analisys. _(Investigación sobre materia activa, en particular dinámica de espermátozoides en ambientes confinados, con simulaciones y análisis de datos experimentales.)_
- - __Student assistant__, Physics department, National University of Rio Cuarto, Argentina. _( Ayudante de Segunda alumno D.S. FCEFQyN, UNRC.)_
+ - __Student assistant__, Physics department, National University of Rio Cuarto, Argentina. _( Alumno Ayudante de Segunda D.S. FCEFQyN, UNRC.)_
    - __03/2015 to 07/2015__ Electromagnetism I _( Electromagnetismo I (1º Semestre 2015)_
    - __08/2014 to 12/2014__ General Physics I (Introduction to Mechanichs) _( Física General I (Introducción a Mecánica) )_
    - __03/2013 to 07/2013__ Mechanichs _( Mecánica )_
