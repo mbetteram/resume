@@ -25,6 +25,16 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
 
 ---
 
+##  EDUCATION
+
+ - _2020_ __Data Science and its applications diploma__, Mathematichs, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _( Diplomatura en Ciencia de Datos y sus aplicaciones, Proyecto: Análisis de datos de Covid19 en Argentina. FaMAF, UNC. )_
+ - _2016 -_ __PhD in Physics__, research on Dynamics of microconfined swimmers. Mathematichs, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _( Doctorado en Físca. FaMAF, UNC. Investigación: Dinámica de nadadores microconfinados, FaMAF, UNC )._
+   - __PhD Courses:__ Numerical Methods in Astrophysics, Computational Physics, Fluid Mechanics, Topics in Mathematical Biology, Introduction to LAMMPS code. _( Cursos de Doctorado: Métodos numéricos en astrofísica, Física computacional, Mecánica de los fluidos, Tópicos de Biología Matemática, Introducción al código LAMMPS )_
+ - _2010-2016_ __B.S. in Physics__ Final grad work: Simultaneous uptake model of water and nutrients by crop roots. Physics department, National University of Rio Cuarto, Argentina. _( Licenciatura en Física, Trabajo Final: Modelo de toma simultánea de agua y nutrientes por raíces de cultivos. UNRC )_
+
+
+---
+
 ##  EXPERIENCE
 
  - __Lecturer__,  Mathematichs, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _(Profesor Ayudante B D.S., FaMAF, UNC.)_
@@ -41,16 +51,6 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
    - __08/2014 to 12/2014__ General Physics I (Introduction to Mechanichs) _( Física General I (Introducción a Mecánica) )_
    - __03/2013 to 07/2013__ Mechanichs _( Mecánica )_
    - __08/2012 to 12/2012__ Electromagnetism I  _( Electromagnetismo II )_
-
-
----
-
-##  EDUCATION
-
- - _2020_ __Data Science and its applications diploma__, Mathematichs, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _( Diplomatura en Ciencia de Datos y sus aplicaciones, Proyecto: Análisis de datos de Covid19 en Argentina. FaMAF, UNC. )_
- - _2016 -_ __PhD in Physics__, research on Dynamics of microconfined swimmers. Mathematichs, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _( Doctorado en Físca. FaMAF, UNC. Investigación: Dinámica de nadadores microconfinados, FaMAF, UNC )._
-   - __PhD Courses:__ Numerical Methods in Astrophysics, Computational Physics, Fluid Mechanics, Topics in Mathematical Biology, Introduction to LAMMPS code. _( Cursos de Doctorado: Métodos numéricos en astrofísica, Física computacional, Mecánica de los fluidos, Tópicos de Biología Matemática, Introducción al código LAMMPS )_
- - _2010-2016_ __B.S. in Physics__ Final grad work: Simultaneous uptake model of water and nutrients by crop roots. Physics department, National University of Rio Cuarto, Argentina. _( Licenciatura en Física, Trabajo Final: Modelo de toma simultánea de agua y nutrientes por raíces de cultivos. UNRC )_
 
 
 ---
