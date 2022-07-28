@@ -3,7 +3,7 @@
 
 I am a Physicist currently finishing a PhD. Researching in biophysics, and interested in science and technology. I am looking forward to a career in Data Science and Machine Learning. Linux, Open and Free software enthusiast. <br>
 
-[Email](mailto:bettera.marcat@gmail.com) / [LinkedIN](www.linkedin.com/in/matias-bettera-marcat-3897131b) / [GitHub](https://github.com/mbetteram)
+[Email](mailto:bettera.marcat@gmail.com) / [LinkedIN](www.linkedin.com/in/matias-bettera-marcat-3897131b) / [GitHub](https://github.com/mbetteram) / [online resume](https://mbetteram.github.io/resume/) / [resume.pdf](https://github.com/mbetteram/resume/blob/7562d27922712d299ef979f1ecc70ad90ccc2d91/resume.pdf)
 
 ---
 
