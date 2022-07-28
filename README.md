@@ -20,7 +20,7 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
 ##  SKILLS
 
  - __Programming Languages:__ Python, Fortran, C, Shell Scripting
- - __Tools & Libraries:__ pandas, Numpy, malplotlib, Github, Docker, Gnuplot, Bash
+ - __Tools & Libraries:__ pandas, Numpy, malplotlib, jupyter, Github, Docker, Gnuplot, Bash
  - __LANGUAGES__
    - English: Good redaction skills and fluency.
    - Spanish: Mother tongue. Advanced redaction skills and fluency.
