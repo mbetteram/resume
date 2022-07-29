@@ -3,7 +3,7 @@
 
 I am a Physicist currently finishing a PhD. Researching in biophysics, and interested in science and technology. I have a strong background in mathematics and physics, and experience facing problems with modeling, simulations a statistic analysis. I am looking forward to a career in Data Science and Machine Learning. Linux, Open and Free software enthusiast. <br>
 
-[Email](mailto:bettera.marcat@gmail.com) / [LinkedIN](www.linkedin.com/in/matias-bettera-marcat-3897131b) / [GitHub](https://github.com/mbetteram) / [online resume](https://mbetteram.github.io/resume/) / [resume.pdf](https://github.com/mbetteram/resume/blob/7562d27922712d299ef979f1ecc70ad90ccc2d91/resume.pdf)
+[Email](mailto:bettera.marcat@gmail.com) / [LinkedIN](www.linkedin.com/in/matias-bettera-marcat-3897131b) / [GitHub](https://github.com/mbetteram) / [online resume](https://mbetteram.github.io/resume/) / [resume.pdf](https://github.com/mbetteram/resume/raw/gh-pages/resume.pdf)
 
 ---
 
@@ -19,7 +19,7 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
 
  - __Programming Languages:__ Python, Fortran, C, Shell Scripting
  - __Tools & Libraries:__ pandas, Numpy, malplotlib, jupyter, Github, Docker, Gnuplot, Bash, ssh, SGE
- - __LANGUAGES__
+ - __Languages__
    - English: Good redaction skills and fluency.
    - Spanish: Mother tongue. Advanced redaction skills and fluency.
 
@@ -28,7 +28,7 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
 
 ##  EDUCATION
 
- - _2020_ __Data Science and its applications diploma__ Mathematics, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina.
+ - _2020_ __Data Science and its applications diploma__ (FaMAF, UNC) Mathematics, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina.
  - _2016 -_ __PhD in Physics__, research on Dynamics of microconfined swimmers. Mathematichs, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _( Doctorado en Físca. FaMAF, UNC. Investigación: Dinámica de nadadores microconfinados, FaMAF, UNC )._
    - __PhD Courses:__ Numerical Methods in Astrophysics, Computational Physics, Fluid Mechanics, Topics in Mathematical Biology, Introduction to LAMMPS code.
  - _2010-2016_ __B.S. in Physics__, Final grad work: Simultaneous uptake model of water and nutrients by crop roots. Physics department, National University of Rio Cuarto, Argentina. _( Licenciatura en Física, Trabajo Final: Modelo de toma simultánea de agua y nutrientes por raíces de cultivos. UNRC )_
