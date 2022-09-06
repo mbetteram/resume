@@ -9,7 +9,7 @@ I am a Physicist currently finishing a PhD. Researching in biophysics, and inter
 
 ### Personal Info and links
 
- - Date of birth: March 16, 1990
+ - Birthday: March 16, 1990
  - Residence: Córdoba, Argentina
  - Cellphone: +54 (9) 358 4834287
 
